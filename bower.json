@@ -6,8 +6,7 @@
   "description": "Credits to http://www.lexiconista.com/xonomy/",
   "main": [
     "js/xonomy.js",
-    "css/xonomy.css",
-    "img/*"
+    "assets/xonomy.css"
   ],
   "keywords": [
     "xonomy",
